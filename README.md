@@ -1,2 +1,3 @@
 # Application-processing-system-for-Bandaragama-Divisional-Secretariat-office
 efficiency system for Bandaragama Divisional Secretariat office 
+The system presented in this project dissertation is developed for Bandaragama divisional secretarial office which is one of the main Government offices located in Bandaragama. System was developed with the objective of providing an application processing system to improve the efficiency and productivity of the processes including birth, death and marriage certificates issuing, Vehicle license renewal, Small enterprises development and NIC Application Issuing at the Bandaragama divisional secretarial office.
